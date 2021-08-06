@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats-kappa-navy.vercel.app/api?username=marcellinuselbert&hide=stars"/>
+<img src="https://github-readme-stats-kappa-navy.vercel.app/api?username=marcellinuselbert&hide=stars&count_private=true"/>
 <!--
 **marcellinuselbert/marcellinuselbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
