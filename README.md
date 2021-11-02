@@ -3,6 +3,6 @@
 ## Hello!
 I'm Marcell from Indonesia!
 ## Contact me: 
-[linkedin](https://www.linkedin.com/in/marcellinuselbert/)
+[Linkedin](https://www.linkedin.com/in/marcellinuselbert/)
 <br>
 [elbertmarcellinus@gmail.com](elbertmarcellinus@gmail.com)
