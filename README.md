@@ -1,4 +1,8 @@
-[![Marcell's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellinuselbert&count_private=true&line_height=20&border_radius=20&show_icons=true&theme=algolia)](https://github.com/marcellinuselbert/github-readme-stats)
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellinuselbert&show_icons=true&count_private=true&theme=algolia" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellinuselbert&layout=compact&theme=algolia&langs_count=6" />
+</p>
+
 ## Hello World! 🌎 
 I'm Marcell from Indonesia!
 
