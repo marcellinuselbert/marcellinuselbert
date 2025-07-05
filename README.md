@@ -6,8 +6,6 @@
 ## Hello World! 🌎 
 Hey there! I'm **Marcellinus Elbert**, a sophomore studying **Computer Science** at University of Indonesia. With a strong passion for **software engineering** and **web development**, I bring full-stack engineering skills to the table, combined with expertise in cutting-edge technologies like Next.js, Tailwind CSS, Docker, Nest.js, PostgreSQL, AWS, GCP, and many more. I'm constantly learning and striving to create innovative and scalable solutions. Let's collaborate and build amazing things together!
 
-<h2> Blog 📝</h2>
-<p> Find me at <a href="https://marcellinus.medium.com">Medium</a>
 
 <h2> Contact me ✉ </h2>
 <a href="https://www.linkedin.com/in/marcellinuselbert/">Linkedin</a>
